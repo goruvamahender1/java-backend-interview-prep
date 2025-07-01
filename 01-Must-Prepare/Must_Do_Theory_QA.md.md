@@ -165,4 +165,5 @@ Because CORS tests whether you:
 - Understand how the web works. 
 - Can debug issues logically. 
 - Know where the real problem lies (backend vs frontend).
+
 ![alt text](image-3.png)
