@@ -2,7 +2,7 @@
 
 ---
 
-Q1. What is JWT?
+### 1. What is JWT?
 
 JWT (JSON Web Tokens) : One of most frequently asked question in interview
 
@@ -21,14 +21,14 @@ Let's undertsand this
 ![alt text](image.png)
 
 
-Q2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
+### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
 
 Think of the coffee in the cup as the data in a variable. ⚡️
 One is a copy and one is the original
 
 ![alt text](image-1.png)
 
-Q3. What is Pass By Value and Pass By Reference 
+#### 3. What is Pass By Value and Pass By Reference 
 
 ### 4. How is Collection different from Collections in Java?
 
