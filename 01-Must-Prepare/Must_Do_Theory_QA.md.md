@@ -2,7 +2,7 @@
 
 ---
 
-### 1. What is JWT?
+#### 1. What is JWT?
 
 JWT (JSON Web Tokens) : One of most frequently asked question in interview
 
@@ -21,7 +21,7 @@ Let's undertsand this
 ![alt text](image.png)
 
 
-### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
+#### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
 
 Think of the coffee in the cup as the data in a variable. ⚡️
 One is a copy and one is the original
@@ -30,29 +30,29 @@ One is a copy and one is the original
 
 #### 3. What is Pass By Value and Pass By Reference 
 
-### 4. How is Collection different from Collections in Java?
+#### 4. How is Collection different from Collections in Java?
 
-### 5. What is the importance of the hashCode() and equals() contract?
+#### 5. What is the importance of the hashCode() and equals() contract?
 
-### 6. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
+#### 6. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
 
-### 7. Distinguish between String creation using the new() operator and String literal.
+#### 7. Distinguish between String creation using the new() operator and String literal.
 
-### 8. Briefly discuss the Factory Design pattern.
+#### 8. Briefly discuss the Factory Design pattern.
 
-### 9. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
+#### 9. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
 
-### 10. Write some important features of Java 8.
+#### 10. Write some important features of Java 8.
 
-### 11. Explain SerialVersionUID.
+#### 11. Explain SerialVersionUID.
 
-### 12. How does Garbage Collection work in Java?
+#### 12. How does Garbage Collection work in Java?
 
-### 13. How does Java handle stack and heap memory?
+#### 13. How does Java handle stack and heap memory?
 
-### 14. What do you know about the Factory Design Pattern in Java?
+#### 14. What do you know about the Factory Design Pattern in Java?
 
-### 15. What is Oauth 2.0?
+#### 15. What is Oauth 2.0?
 Oauth 2.0 Explained With Simple Terms. 
 
 OAuth 2.0 is a powerful and secure framework that allows different applications to securely interact with each other on behalf of users without sharing sensitive credentials. 
