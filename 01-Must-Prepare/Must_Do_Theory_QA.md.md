@@ -20,7 +20,7 @@ Let's undertsand this
 
 ![alt text](image.png)
 
-                             (OR)
+**OR**
 
 JSON Web Token (JWT) – A Deep Dive
 
