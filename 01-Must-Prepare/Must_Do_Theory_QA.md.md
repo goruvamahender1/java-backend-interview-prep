@@ -20,6 +20,109 @@ Let's undertsand this
 
 ![alt text](image.png)
 
+                             (OR)
+
+JSON Web Token (JWT) – A Deep Dive
+
+JWTs are a way to securely transmit information between parties as a compact, URL-safe token. They are widely used in authentication and authorization mechanisms, especially in stateless applications like microservices.
+
+1. Structure of a JWT
+
+ A JWT consists of three parts, separated by dots (.):
+
+ HEADER.PAYLOAD.SIGNATURE
+
+a) Header
+
+ The header contains metadata about the token, including the signing algorithm:
+
+ {
+ "alg": "HS256",
+ "typ": "JWT"
+ }
+
+ • alg: Algorithm used for signing (e.g., HS256, RS256).
+ • typ: Token type (always JWT).
+
+b) Payload (Claims)
+
+ The payload contains the actual data (claims), which can be public, private, or registered.
+
+ {
+ "sub": "1234567890",
+ "name": "John Doe",
+ "iat": 1700000000,
+ "exp": 1700003600,
+ "role": "admin"
+ }
+
+ • Registered Claims (optional but standardized):
+ • iss (issuer) – Who issued the token
+ • sub (subject) – User ID
+ • aud (audience) – Intended recipient
+ • exp (expiration) – Token expiry time
+ • iat (issued at) – When the token was created
+ • Custom Claims (specific to your app):
+ • role: Defines user roles
+ • permissions: Specifies allowed actions
+
+c) Signature
+
+ The signature ensures integrity, preventing tampering.
+
+ For example, in HS256 (HMAC with SHA-256), the signature is:
+
+ HMACSHA256(
+ base64UrlEncode(header) + "." + base64UrlEncode(payload), 
+ secret
+ )
+
+ For RS256 (RSA), a private key is used to sign, and a public key is used to verify.
+
+2. How JWT Authentication Works
+ 1. User Logs In
+ • The user provides credentials (e.g., username & password).
+ 2. Server Generates a JWT
+ • If credentials are valid, the server signs a JWT and sends it to the client.
+ 3. Client Stores the Token
+ • The token is stored securely (in memory or HTTP-only cookies).
+ 4. Client Sends JWT with Requests
+ • The client includes the token in the Authorization header:
+
+ Authorization: Bearer <JWT>
+
+ 5. Server Verifies the JWT
+ • The server checks the signature and expiration.
+ • If valid, it processes the request; otherwise, it rejects it.
+
+3. Why Use JWTs?
+
+ ✅ Stateless Authentication – No need for session storage on the server.
+ ✅ Compact & Fast – Easy to transmit in headers.
+ ✅ Cross-Domain Support – Works well for APIs & microservices.
+
+4. Best Practices for Using JWTs
+ • Use HTTPS – Prevent token interception.
+ • Short Expiry Times – Reduce risk of token misuse.
+ • Use Refresh Tokens – Issue short-lived JWTs and refresh them securely.
+ • Don’t Store JWTs in Local Storage – Prefer HTTP-only cookies.
+ • Validate Tokens – Always verify signatures and claims on the backend.
+
+5. Code Example (Node.js & Express)
+
+Generating a JWT (Using jsonwebtoken)
+
+ const jwt = require('jsonwebtoken');
+
+ const user = { id: 1, name: 'John Doe', role: 'admin' };
+ const secret = 'supersecretkey';
+ const token = jwt.sign(user, secret, { expiresIn: '1h' });
+
+ console.log('JWT:', token);
+
+ ![alt text](image-4.png)
+
+
 
 #### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
 
