@@ -2,8 +2,6 @@
 
 ---
 
-Here is your cleaned-up and renumbered list of Java questions with duplicates removed and proper numbering:
-
 1. What is the difference between `==` and `.equals()` in Java?
 2. How does Java achieve platform independence?
 3. Explain the concept of JVM, JRE, and JDK.

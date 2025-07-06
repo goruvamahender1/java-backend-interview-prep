@@ -49,3 +49,4 @@
 45. What is the purpose of @SpringBootApplication?
 46. How do you read values from application.properties?
 47. What do you understand by springboot in general?
+48. Mention the benefits and limitations of Spring AOP

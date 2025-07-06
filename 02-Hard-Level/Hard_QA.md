@@ -21,15 +21,14 @@
 17. Describe EnumSe 18. In hashing-based collections, state the default size of the load factor  
 18. Differentiate between fail-safe and fail-fast  
 19. Discuss IdentityHashMap  
-20. Mention the benefits and limitations of Spring AOP  
-21. What is the Properties class?  
-22. Mention 5 best practices used with threads  
-23. When should one use the Flyweight pattern?  
-24. What is the difference between SAX and DOM parsers?  
-25. What are weak references in Java?  
-26. How can you prevent Deadlock in Java?  
-27. Explain the Template Method design pattern  
-28. What are Java Memory Leaks?  
-29. What are ThreadLocal variables?
+20. What is the Properties class?  
+21. Mention 5 best practices used with threads  
+22. When should one use the Flyweight pattern?  
+23. What is the difference between SAX and DOM parsers?  
+24. What are weak references in Java?  
+25. How can you prevent Deadlock in Java?  
+26. Explain the Template Method design pattern  
+27. What are Java Memory Leaks?  
+28. What are ThreadLocal variables?
 
 
