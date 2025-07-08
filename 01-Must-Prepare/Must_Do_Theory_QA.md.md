@@ -18,7 +18,7 @@ Let's undertsand this
 
 5. 𝐒𝐭𝐚𝐭𝐞𝐥𝐞𝐬𝐬 𝐚𝐧𝐝 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥 𝐓𝐨𝐤𝐞𝐧 𝐑𝐞𝐟𝐫𝐞𝐬𝐡: JWTs store all necessary user data within the token, so no session data is stored on the server. If the JWT expires, the client can use a refresh token to get a new JWT without reauthentication.
 
-![alt text](image.png)
+![alt text](/Images/image.png)
 
 **(OR)**
 
