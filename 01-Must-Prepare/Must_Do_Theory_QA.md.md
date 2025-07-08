@@ -1541,35 +1541,6 @@ Use regular health checks to deregister unhealthy instances from service registr
 Deploy services across multiple zones or instances. Use load balancers or service meshes (e.g., Istio) to reroute traffic during service failures.
 
 
-🔐 Authentication vs Authorization in Spring Security
-
-Know the difference 👇
-
-✅ Authentication = Who are you?
-
-Verifies identity
-
-Uses username/password, JWT, OAuth
-
-Filter: UsernamePasswordAuthenticationFilter
-
-
-✅ Authorization = What can you access?
-
-Checks permissions/roles
-
-Uses @PreAuthorize, @Secured
-
-Controls access to endpoints/resources
-
-
-🧠 Remember:
-
-Authentication → Entry gate 🚪
-
-Authorization → Access control 🎯
-
-
 🚀 Technical Interview Prep: Core Java, Spring Boot & Microservices Essentials 🚀
 As I gear up for upcoming interviews, here are some key concepts and questions I’m revising — thought it might help fellow developers preparing for similar roles!
 💻 Round 1 – Core Java & Spring Boot

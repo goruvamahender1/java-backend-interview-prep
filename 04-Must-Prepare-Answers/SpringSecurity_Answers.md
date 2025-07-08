@@ -1,7 +1,34 @@
 ## SpringSecurity Must Prepare Answers
 
 ---
+#### 6.
+🔐 Authentication vs Authorization in Spring Security
 
+Know the difference 👇
+
+✅ Authentication = Who are you?
+
+Verifies identity
+
+Uses username/password, JWT, OAuth
+
+Filter: UsernamePasswordAuthenticationFilter
+
+
+✅ Authorization = What can you access?
+
+Checks permissions/roles
+
+Uses @PreAuthorize, @Secured
+
+Controls access to endpoints/resources
+
+
+🧠 Remember:
+
+Authentication → Entry gate 🚪
+
+Authorization → Access control 🎯
 
 
 #### 8.

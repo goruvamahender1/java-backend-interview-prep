@@ -84,16 +84,11 @@
 80. Properties vs YAML – Should you use .properties or .yaml for configuration? Understand the differences and best practices?
 81. What is @Profile and how the Manage multiple environments using it?
 82. Difference b/w @Qualifier vs @Primary and when this are being used?
-
-
-e) Spring Profiles –  (dev, test, prod) with Spring Profiles and 
-
-f)  – Master @Scheduled(fixedDelay = …) and @Scheduled(fixedRate = …) for task scheduling.
-
-g) Cron Expressions in Spring Boot – Schedule tasks precisely with @Scheduled(cron = "0 0/5 * * * ?").
-
-h) Aspect-Oriented Programming (AOP) – Use AOP for logging, security, and transactions with @Aspect and @Around.
-
-i) Spring Boot Actuator – Monitor and manage your application with endpoints like /actuator/health and /actuator/metrics.
-
-j)  – Control bean selection when multiple beans of the same type exist.
+83. What Are DispatcherServlet and ContextLoaderListener?
+84. Difference between BeanFactory and application context?
+85. What are Spring MVC interceptors?
+86. Can you create a controller without using @Controller or @RestController annotations?
+87. How is the root application context in Spring MVC loaded?
+88. Name the exceptions thrown by the Spring DAO classes.
+89. Explain Spring bean lifecycle ?
+90. How to implement Custom validator other than predefined?

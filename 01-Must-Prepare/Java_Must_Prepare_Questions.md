@@ -40,8 +40,12 @@
 36. Why is String immutable in Java?
 37. Difference between Comparator and Comparable.
 38. What is Java 8 Stream API, and how does it work?
-39. Java 17 features.
+39. Java 17,21,11 features.
 40. Can we override a static method in Java?
 41. What is a ThreadPool, and why is it used?
 42. Does Java supports multiple inheritance and if not why?
-43. 
+43. Explain Design Patterns in java?
+44. What is the use of this and super in Java?
+45. Can a constructor be private? Why or why not? 🚪
+46. What is the significance of final keyword in OOP? 🔥
+47.  How does Java achieve runtime polymorphism? 
