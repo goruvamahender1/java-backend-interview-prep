@@ -28,3 +28,10 @@
 24. What is an exception?
 25. What is final keyword used for?
 26. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
+27. How is Collection different from Collections in Java?
+28. What is the importance of the hashCode() and equals() contract?
+29. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
+30. Briefly discuss the Factory Design pattern.
+31. Write some important features of Java 8.
+32. Explain SerialVersionUID.
+33. How does Java handle stack and heap memory?

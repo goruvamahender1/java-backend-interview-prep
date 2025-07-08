@@ -1,60 +1,6 @@
-# ✅ Must-Do Theory Questions & Answers
 
----
+#### 15. 
 
-#### 1. What is JWT?
-
-
-
-
-#### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
-
-
-
-#### 3. What is Pass By Value and Pass By Reference 
-
-#### 4. How is Collection different from Collections in Java?
-
-#### 5. What is the importance of the hashCode() and equals() contract?
-
-#### 6. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
-
-#### 7. Distinguish between String creation using the new() operator and String literal.
-
-#### 8. Briefly discuss the Factory Design pattern.
-
-#### 9. Is there any difference in defining or creating a String by using a String literal and using the new() operator?
-
-#### 10. Write some important features of Java 8.
-
-#### 11. Explain SerialVersionUID.
-
-#### 12. How does Garbage Collection work in Java?
-
-#### 13. How does Java handle stack and heap memory?
-
-#### 14. What do you know about the Factory Design Pattern in Java?
-
-#### 15. What is Oauth 2.0?
-Oauth 2.0 Explained With Simple Terms. 
-
-OAuth 2.0 is a powerful and secure framework that allows different applications to securely interact with each other on behalf of users without sharing sensitive credentials. 
- 
-The entities involved in OAuth are the User, the Server, and the Identity Provider (IDP). 
- 
-What Can an OAuth Token Do? 
- 
-When you use OAuth, you get an OAuth token that represents your identity and permissions. This token can do a few important things: 
- 
-Single Sign-On (SSO): With an OAuth token, you can log into multiple services or apps using just one login, making life easier and safer. 
- 
-Authorization Across Systems: The OAuth token allows you to share your authorization or access rights across various systems, so you don't have to log in separately everywhere. 
- 
-Accessing User Profile: Apps with an OAuth token can access certain parts of your user profile that you allow, but they won't see everything. 
- 
-Remember, OAuth 2.0 is all about keeping you and your data safe while making your online experiences seamless and hassle-free across different applications and services.
-
-![alt text](image-2.png) 
 #### 16. What are the advantages of using Spring Boot?  
 #### 17. What are the Spring Boot key components?  
 #### 18. Why Spring Boot over Spring?  

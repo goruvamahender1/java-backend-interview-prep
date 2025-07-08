@@ -10,4 +10,5 @@
 6. What is the difference between authentication and authorization?
 7. How do you configure in-memory users for testing?
 8. What is JWT?
+9. What is Oauth 2.0?
 
