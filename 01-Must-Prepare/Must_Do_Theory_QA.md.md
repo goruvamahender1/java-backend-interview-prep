@@ -9,10 +9,7 @@
 
 #### 2. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
 
-Think of the coffee in the cup as the data in a variable. ⚡️
-One is a copy and one is the original
 
-![alt text](image-1.png)
 
 #### 3. What is Pass By Value and Pass By Reference 
 

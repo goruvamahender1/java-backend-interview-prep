@@ -27,3 +27,4 @@
 23. What is a try-with-resources block?
 24. What is an exception?
 25. What is final keyword used for?
+26. What is Pass By Value and Pass By Reference and is Java follows Pass By Reference or Pass By Value?
