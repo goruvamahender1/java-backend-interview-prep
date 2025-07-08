@@ -6,3 +6,4 @@
 2. What are common strategies to handle rate limiting and throttling?
 3. How do you implement pagination and sorting in Spring Boot?
 4. What is the difference between @Value, @ConfigurationProperties, and Environment?
+5. FixedDelay vs FixedRate in Scheduling

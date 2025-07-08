@@ -49,4 +49,51 @@
 45. What is the purpose of @SpringBootApplication?
 46. How do you read values from application.properties?
 47. What do you understand by springboot in general?
-48. Mention the benefits and limitations of Spring AOP
+48. Mention the benefits and limitations of Spring AOP?
+49. What are the advantages of using Spring Boot? 
+50. What are the Spring Boot key components? 
+51. How does Spring Boot works? 
+52. What does the @SpringBootApplication annotation do internally? 
+53. What is the purpose of using @ComponentScan in the class files?
+54. How does a Spring Boot application get started?
+55. What is Spring Initializer?
+56. What is Spring Boot CLI and what are its benefits?
+57. What are the most common Spring Boot CLI commands?
+58. What Are the Basic Annotations that Spring Boot Offers?
+59. What is Spring Boot dependency management?
+60. Can we create a non-web application in Spring Boot? 
+61. Is it possible to change the port of the embedded Tomcat server in Spring Boot?
+62. What is the default port of Tomcat in Spring Boot?
+63. Can we override or replace the Embedded Tomcat server in Spring Boot?
+64. Can we disable the default web server in the Spring Boot application?
+65. How to disable a specific auto-configuration class?
+66. Difference b/w @RequestMapping, @GetMapping, @PostMapping, @PutMapping, @DeleteMapping, @PatchMapping
+67. Describe the flow of HTTPS requests through the Spring Boot application?
+68. What is the use of Profiles in Spring Boot?
+69. How to enable Actuator in Spring Boot application? 
+70. What are the actuator-provided endpoints used for monitoring the Spring Boot application? 
+71. How to get the list of all the beans in your Spring Boot application?
+72. How to check the environment properties in your Spring Boot application? 
+73. What is vault?
+74. How to enable debugging log in the Spring Boot application?
+75. Where do we define properties in the Spring Boot application?   
+76. What is an IOC container?
+77. Explain Spring Boot's run() Method?
+78. Explain Validations in Spring Boot i.e., @Valid, @NotNull, @Size, and create custom validation annotations.
+79. Explain Relaxed Binding in Spring Boot i.e., Learn how Spring Boot auto-binds configuration properties, making externalized configuration flexible and powerful.
+80. Properties vs YAML – Should you use .properties or .yaml for configuration? Understand the differences and best practices?
+81. What is @Profile and how the Manage multiple environments using it?
+82. Difference b/w @Qualifier vs @Primary and when this are being used?
+
+
+e) Spring Profiles –  (dev, test, prod) with Spring Profiles and 
+
+f)  – Master @Scheduled(fixedDelay = …) and @Scheduled(fixedRate = …) for task scheduling.
+
+g) Cron Expressions in Spring Boot – Schedule tasks precisely with @Scheduled(cron = "0 0/5 * * * ?").
+
+h) Aspect-Oriented Programming (AOP) – Use AOP for logging, security, and transactions with @Aspect and @Around.
+
+i) Spring Boot Actuator – Monitor and manage your application with endpoints like /actuator/health and /actuator/metrics.
+
+j)  – Control bean selection when multiple beans of the same type exist.

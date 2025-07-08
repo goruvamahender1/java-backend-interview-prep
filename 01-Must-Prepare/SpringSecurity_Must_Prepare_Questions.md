@@ -11,4 +11,6 @@
 7. How do you configure in-memory users for testing?
 8. What is JWT?
 9. What is Oauth 2.0?
+10. What is CORS? Why Does It Happen? ? The Real Problem Behind CORS ? How Do You Fix It? Can We Bypass CORS?
+11. Explain Filter and Security filters.
 
