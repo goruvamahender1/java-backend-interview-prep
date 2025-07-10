@@ -1,4 +1,4 @@
-## Jenkins & Kubernetes Must Prepare Core Questions
+## Jenkins & Kubernetes Must Prepare Questions
 
 ---
 1. How to create pipeline and deploy in Jenkins?

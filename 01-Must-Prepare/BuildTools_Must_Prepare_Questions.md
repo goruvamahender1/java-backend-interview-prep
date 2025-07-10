@@ -1,4 +1,4 @@
-## BuildTools Must Prepare Core Questions
+## BuildTools Must Prepare Questions
 
 ---
 1. What is the difference between Maven and Gradle?

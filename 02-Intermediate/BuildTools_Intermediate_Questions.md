@@ -1,4 +1,4 @@
-## BuildTools Must Prepare Core Questions
+## BuildTools Must Prepare Questions
 
 ---
 

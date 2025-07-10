@@ -1,4 +1,4 @@
-## Database Must Prepare Core Questions
+## Database Must Prepare Questions
 
 ---
 

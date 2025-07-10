@@ -1,4 +1,4 @@
-## Spring Data JPA Must Prepare Core Questions
+## Spring Data JPA Must Prepare Questions
 
 ---
 

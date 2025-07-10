@@ -1,4 +1,4 @@
-## Kafka Must Prepare Core Questions
+## Kafka Must Prepare Questions
 
 ---
 
