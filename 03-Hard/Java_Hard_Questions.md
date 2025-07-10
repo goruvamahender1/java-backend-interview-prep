@@ -30,5 +30,6 @@
 26. Explain the Template Method design pattern  
 27. What are Java Memory Leaks?  
 28. What are ThreadLocal variables?
-
-
+29. Explain how the PhantomReference class works and its use cases.
+30. What is the role of the Unsafe class in Java? Why should it be used cautiously?
+31. Why diamond problem occurs? What are the ways to resolve it?

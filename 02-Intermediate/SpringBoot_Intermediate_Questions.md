@@ -9,3 +9,5 @@
 5. FixedDelay vs FixedRate in Scheduling?
 6. What Is an Init Binder?
 7. What do you mean by Proxy in Spring Framework?
+8. What is Idempotent method in Rest
+9. How does Spring manage transactions?

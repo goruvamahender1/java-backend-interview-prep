@@ -15,3 +15,6 @@
 11. How do you send a Kafka message?
 12. Kafka is a messaging system for distributed data pipelines.
 13. How do you consume Kafka messages in Spring Boot?
+14. What are the main components of Kafka?
+15. What is a partition in Kafka?
+16. How to handle the scenario where a Kafka consumer keeps on reprocessing the same message?

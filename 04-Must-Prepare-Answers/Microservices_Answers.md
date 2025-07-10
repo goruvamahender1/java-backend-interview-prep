@@ -39,3 +39,14 @@
 🔟 Publish-Subscribe (Pub-Sub)
 => Services communicate asynchronously, ensuring loose coupling and better scalability.
 🔧 Tools: Kafka, RabbitMQ
+
+
+
+#### 16.
+1. It is a method of breaking down a large monolithic application into smaller, independent microservices.
+2. Each service handles a specific business function, such as Orders, Payments, or Notifications.
+3. Common strategies:
+Decomposition by Business Capability
+Decomposition by Subdomain (from Domain-Driven Design
+4. Use Case Example:
+ In an e-commerce app, splitting the system into services like ProductService, CartService, PaymentService helps develop, deploy, and scale them independently.

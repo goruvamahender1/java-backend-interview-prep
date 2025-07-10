@@ -92,3 +92,74 @@
 88. Name the exceptions thrown by the Spring DAO classes.
 89. Explain Spring bean lifecycle ?
 90. How to implement Custom validator other than predefined?
+91. What are some common performance tuning practices in a Spring Boot application?
+92. How would you implement asynchronous processing in Spring Boot?
+93. How do you handle Gateway Timeout (504) and Service Unavailable (503) errors in a project?
+94. What is the ApplicationContext in Spring?
+95. What are the advantages of using Spring Boot?
+96. What are the different scopes available in Spring?
+97. What is @Mockito and how is it used in testing?
+98. What is the difference between prototype and request scope in Spring?
+99. How do you handle Dependency Injection in Spring Boot?
+100. What are the commonly used HTTP error codes in applications?
+101. What do 404, 402, 502, 503, and 401 HTTP error codes mean?
+102. What is the difference between @Bean and @Autowired in Spring?
+103. How do you handle a "Not Found" (404) error in Spring Boot?
+104. What typically causes a "Bad Request" (400) error?
+105. Are the server port and debug port the same in a Spring Boot application?
+106. When should you use and when should you avoid using @Mock?
+107. How do you handle "Service Not Found" errors even when beans are properly registered?
+108. How do you debug issues in both local and remote repositories?
+109. What are Helper classes, Utility classes, and Data Transfer Objects (DTOs) in Java?
+110. A user triggers a long-running operation (e.g., report generation). How would you ensure a non-blocking experience?Use @Async with @EnableAsync Return a CompletableFuture<> or use messaging queues like RabbitMQ or Kafka
+Notify the user via WebSocket, polling, or email
+111. What is the difference between a DTO class and a record class in Java?
+112. What architecture are you using in your Spring Boot application?
+113. What are the core rules and best practices of REST API design?
+114. If the Department is part of another microservice, how would you access its data?
+115. What are the disadvantages of using Spring Boot?
+116. PUT vs POST — interchangeable or not?
+117. What happens if you swap @Service and @Repository?
+118. HTTP 403 vs 404 — what do they mean?
+119. How do you make a contact between two HTTPS? You want to send a request to another HTTPS and get the response ?
+120. What is Junit and what are the methods available in Junit?
+121. How does the @RestControllerAdvice annotation work in Spring Boot for global exception handling?
+122. Explain the Builder design pattern. When is it preferable over telescoping constructors?
+123. Query Params vs Path Variables
+124. What is the difference between eager and lazy initialization in Java? How does Spring support both?
+125. How does the @RequestScope, @SessionScope, and @ApplicationScope work in Spring?
+126. What version of Spring and java did you use?
+127.  Different types of request bodies in REST APIs?
+128. What are module attributes in a project?
+129. What are the types of bean scopes in Spring?
+130. Explain the life cycle of a Spring Bean?
+131. @WebMvcTest, @DataJpaTest, and Mockito for testing controllers and repositories.
+132. Implement @ControllerAdvice and @ExceptionHandler for centralized error handling.
+133. Can we have @SpringBootApplication classes in the same project.
+134. How do you configure multiple data sources in Spring Boot?
+135. How do you write parameterized tests in JUnit 5?
+136. How do you externalize configuration using YAML and Properties files?
+137. Feign Client vs WebClient: Which one to use and why.
+138. What’s the difference between Filters and Interceptors?
+139. Can we use @Component instead of @Repository?
+140. Write the code for different injections constructor, field, setter injection and which is recommended and why.
+141. How do you GET is more faster than POST?
+142. What are the HTTP methods?
+143. Differentiate the Status Code 400 series and 500 series
+144. How do annotations like @Transactional work internally in Spring? What is proxy-based AOP?
+145. How do you handle circular dependencies in Spring? What are common solutions or design alternatives?
+146. Explain the role of transient and serialVersionUID in Java serialization.
+147. How do @JsonIgnore, @JsonProperty, and @JsonInclude annotations work in Jackson? When and why would you use them in a Spring Boot application?
+148.  What are the most commonly used Jackson annotations in Spring Boot for JSON serialization/deserialization, and how do they work? Explain with examples for:
+```
+@JsonIgnore
+@JsonProperty
+@JsonInclude
+@JsonFormat
+@JsonCreator
+@JsonValue
+@JsonAlias
+@JsonAnyGetter / @JsonAnySetter
+@JsonAutoDetect
+@JsonDeserialize / @JsonSerialize
+```
