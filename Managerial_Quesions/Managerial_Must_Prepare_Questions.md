@@ -56,6 +56,11 @@
     * What are your expectations of me if I’m hired for this position?
     * How often do performance reviews occur?
     * What does success look like in this role?
+50. What are the different methodologies used in software development?
+51. How can you negotiate a higher salary when your previous company had a lower pay scale?
+52. What should you say when asked about your notice period to join a new company?
+53. What if you're unsure about your current notice period—how should you respond in an interview?
+54. How can you manage or minimize your notice period in the current company to join a new opportunity sooner?
 
 ---
 
